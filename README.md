@@ -1,0 +1,1 @@
+# AGS-Icon-Plugin
